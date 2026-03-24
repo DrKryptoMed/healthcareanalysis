@@ -23,6 +23,7 @@ This repository contains a comprehensive Exploratory Data Analysis (EDA) of **5,
 
 ## 📂 Repository Structure
 * `Covid_Trial_Analysis.ipynb`: Main Python analysis notebook.
+* `Covid_Trial_Analysis.html`: web version of Python analysis notebook.
 * `Covid_clinical_trial_analysis.pdf`: Detailed scientific report.
 * `README.md`: Project documentation.
 
