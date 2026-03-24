@@ -11,7 +11,7 @@ This repository contains a comprehensive Exploratory Data Analysis (EDA) of **5,
 5. **Funding Landscape:** Identify major research sponsors and sectors.
 
 ## 🛠️ Data Engineering & Validation
-* **Missingness Management:** Classified data as **MCAR** (e.g., Enrollment) or **MAR** (e.g., Phases).
+* **Missingness Management:** Classified data as **MNAR**,  **MCAR** (e.g., Enrollment) or **MAR** (e.g., Phases).
 * **Feature Engineering:** Used **Regex** to extract age groups (Child, Adult, Older Adult) and unpacked complex "Study Design" strings into granular columns for **Allocation** and **Masking**.
 * **Time-Series Prep:** Converted multiple date columns into `datetime` objects for duration analysis.
 
